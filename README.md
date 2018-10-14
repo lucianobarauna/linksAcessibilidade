@@ -20,3 +20,4 @@ Essa é uma coleção de links que acho relevante para o desenvolvimento
 - [A11Y - Guia de referência para acessibilidade - Style Guide](http://a11y-style-guide.com/style-guide/)
 - [Acessibilidade em React, um exemplo bem legal](https://simplyaccessible.com/article/react-a11y/)
 - [a11y.css -  Uma folha de estilo que avalia o quando seu site está acessível](https://ffoodd.github.io/a11y.css/)
+- [Comandos nvda](ftp://ftp.handytech.de/public/StartStick/files/nvda/documentation/pt_BR/keyCommands.html)
