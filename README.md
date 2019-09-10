@@ -22,3 +22,5 @@ Essa é uma coleção de links que acho relevante para o desenvolvimento
 - [a11y.css -  Uma folha de estilo que avalia o quando seu site está acessível](https://ffoodd.github.io/a11y.css/)
 - [contrastchecker - Ferramenta para teste de constraste de cor](https://webaim.org/resources/contrastchecker/)
 - [colorable - Ferramenta para teste de contraste](https://colorable.jxnblk.com/000000/ffffff)
+- [colors web](http://clrs.cc/)
+- [acessibilidade/toolkit](https://github.com/acessibilidade/toolkit)
