@@ -24,3 +24,4 @@ Essa é uma coleção de links que acho relevante para o desenvolvimento
 - [colorable - Ferramenta para teste de contraste](https://colorable.jxnblk.com/000000/ffffff)
 - [colors web](http://clrs.cc/)
 - [acessibilidade/toolkit](https://github.com/acessibilidade/toolkit)
+-[Guia com algumas ferramentas de cores](https://stephaniewalter.design/blog/color-accessibility-tools-resources-to-design-inclusive-products/)
